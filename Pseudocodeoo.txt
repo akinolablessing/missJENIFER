@@ -1,0 +1,10 @@
+  Pseudocode
+1)prompt the user to enter a single character
+2)collect it
+3)store it as "alphabet"
+4)check if a || e|| i||o||u
+5)display vowel
+6)else
+7)display consonant
+8)else
+9)display Error messages 
